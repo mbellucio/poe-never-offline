@@ -18,7 +18,7 @@ and click on the screen and alt tab again.
 • last, install the requirements by typing this in the console:<br>
 ```pip install -r requirements.txt```<br><br>
 
-note: This Script is meant to be used in hideout,<br>
+note: This Script is meant to be used in the hideout,<br>
 due to the afk timer of the game being higher there.<br>
 if you need to use this in any other place, adjust the time<br>
 in the script, adjusting it to your needs.<br><br>
